@@ -2,7 +2,7 @@
 Html Css Template
 
 # Desktop:
-![Uploading Screenshot 2022-03-11 at 13-57-49 Leon Template One.png…]()
+![desktop](https://user-images.githubusercontent.com/43423641/157868459-4a7712da-e320-4a85-945c-994dd71a98ba.png)
 
 # Mobile:
-![Uploading Screenshot 2022-03-11 at 13-57-58 Leon Template One.png…]()
+![mobile](https://user-images.githubusercontent.com/43423641/157868533-87237925-6488-4084-9564-946f9893cdd4.png)
